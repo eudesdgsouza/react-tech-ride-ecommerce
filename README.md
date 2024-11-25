@@ -31,15 +31,6 @@ Bem-vindo ao **Tech Ride**, um eCommerce moderno e dinâmico construído com **R
 
 ---
 
-## **🖼️ Demonstração Visual**  
-
-Inclua capturas de tela ou GIFs das principais funcionalidades, como:  
-- Catálogo de produtos.  
-- Carrinho de compras.  
-- Busca e filtros.  
-
----
-
 ## **🛠️ Melhorias Futuras**  
 
 - **💳 Integração de Pagamento**: Adicionar métodos de pagamento real.  
